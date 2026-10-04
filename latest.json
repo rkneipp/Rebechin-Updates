@@ -11,5 +11,6 @@
   ],
   "release_tag": "v0.1.0",
   "artifact": "Rebechin-0.1.0-build-1-macOS.zip",
-  "sha256": "9dcddabcb6b9835726b08affee5d3b32910f58066f6aa1c38fbdbdec5c7aa13e"
+  "sha256": "9dcddabcb6b9835726b08affee5d3b32910f58066f6aa1c38fbdbdec5c7aa13e",
+  "download_url": "https://github.com/rkneipp/Rebechin-Updates/releases/download/v0.1.0/Rebechin-0.1.0-build-1-macOS.zip"
 }
