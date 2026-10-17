@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "app": "Rebechin",
-  "version": "0.1.15",
+  "version": "0.1.16",
   "build": 1,
   "minimum_macos": "14.0",
   "bundle_id": "com.rebechin.app",
@@ -9,9 +9,9 @@
     "arm64",
     "x86_64"
   ],
-  "release_tag": "v0.1.15",
-  "artifact": "Rebechin-0.1.15-build-1-macOS.zip",
-  "sha256": "97d2b678a8c1994a35bdefa5a7fd921d891062a00908f9bd21a131913160bd7c",
-  "download_url": "https://github.com/rkneipp/Rebechin-Updates/releases/download/v0.1.15/Rebechin-0.1.15-build-1-macOS.zip",
-  "source_commit": "bdf573f05145a2ec3355d12b87dc483a42089bac"
+  "release_tag": "v0.1.16",
+  "artifact": "Rebechin-0.1.16-build-1-macOS.zip",
+  "sha256": "0c6bab165334d26cc938180006704645d694acb906f011fc5e5c54ad4a53d0a7",
+  "download_url": "https://github.com/rkneipp/Rebechin-Updates/releases/download/v0.1.16/Rebechin-0.1.16-build-1-macOS.zip",
+  "source_commit": "c3e33f0902f307a4f0513500a62aba588e601670"
 }
